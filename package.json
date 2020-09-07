@@ -1,0 +1,18 @@
+{
+  "name": "my-barcode-app",
+  "version": "0.0.1",
+  "dependencies": {
+    "@adobe/aio-sdk": "^2.1.0",
+    "bwip-js": "^2.0.6",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "@adobe/wskdebug": "^1.1.0",
+    "javascript-barcode-reader": "^0.6.8",
+    "jest": "^24.9.0"
+  },
+  "scripts": {
+    "test": "jest --collectCoverage=true --testRegex ./test/actions",
+    "e2e": "jest --collectCoverage=false --testRegex ./e2e"
+  }
+}
