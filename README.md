@@ -1,4 +1,4 @@
-# Firefly Sample App: Barcode reader
+# Firefly Sample App: Barcode generator
 
 This Firefly app is a complete solution of the codelab [Firefly Headless App](https://github.com/AdobeDocs/adobeio-codelabs-barcode). 
 
