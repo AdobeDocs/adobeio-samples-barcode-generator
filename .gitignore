@@ -28,3 +28,4 @@ coverage
 
 # yeoman
 .yo-repository
+.aio
